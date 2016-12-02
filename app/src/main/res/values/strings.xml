@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="progress_message">Relax until we fetch Jokes</string>
+    <string name="show_jokes">Tell a Joke :)</string>
+</resources>
