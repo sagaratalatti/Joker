@@ -19,10 +19,6 @@ android {
         }
     }
 
-    buildTypes.each {
-        it.buildConfigField 'String', 'Url', "\"https://joker-150713.appspot.com/_ah/api/\""
-    }
-
     productFlavors {
         free {
             applicationId "com.sagar.joker.free"
